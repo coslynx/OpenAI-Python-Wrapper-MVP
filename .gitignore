@@ -1,0 +1,28 @@
+# Ignore environment variables file
+.env
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore test coverage reports
+coverage.xml
+
+# Ignore temporary build files
+*.egg-info/
+dist/
+
+# Ignore IDE-specific configuration files
+.idea/
+.vscode/
+
+# Ignore generated documentation
+docs/
+
+# Ignore logs
+logs/
+
+# Ignore database files (if using local SQLite database)
+*.sqlite3
