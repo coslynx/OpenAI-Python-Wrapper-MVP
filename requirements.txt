@@ -1,0 +1,13 @@
+fastapi==0.115.4
+uvicorn==0.32.0
+sqlalchemy==2.0.36
+psycopg2==2.9.10
+pyjwt==2.9.0
+openai==1.53.0
+pydantic==2.9.2
+requests==2.32.3
+dotenv==0.0.5
+pytest==8.3.3
+flake8==7.1.1
+cachetools==5.5.0
+marshmallow==3.23.1
